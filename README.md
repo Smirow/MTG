@@ -3,4 +3,4 @@
 
 <h2> Branch Description </h2>
 <h3>Master Branch : DO NOT COMMIT, créez vos branches.</h3>
-<h3>XMLGraphCreation : Création des 5 fichiers XML représentant les graphes.</h3>
+<h3>XMLGraphCreation : Création des 5 fichiers XML représentant les graphes (Magued).</h3>
