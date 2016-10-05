@@ -1,0 +1,13 @@
+<!-- graph biparti complet K2,3 -->
+<graph oriented="False">
+	<vertex id="1">
+		<successor vertex="3" cost="4" />
+		<successor vertex="4" cost="0" />
+		<successor vertex="5" />
+	</vertex>
+	<vertex id="2">
+		<successor vertex="3" />
+		<successor vertex="4" />
+		<successor vertex="5" />
+	</vertex>
+</graph>
