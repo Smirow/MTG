@@ -18,3 +18,12 @@ C:\Users\marie\Documents\MTG\Project\Graph\GraphClient\obj\Debug\GraphClient.csp
 C:\Users\marie\Documents\MTG\Project\Graph\GraphClient\bin\Debug\Algorithms.dll
 C:\Users\marie\Documents\MTG\Project\Graph\GraphClient\bin\Debug\Algorithms.pdb
 C:\Users\marie\Documents\MTG\Project\Graph_etudiants\GraphClient\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\theob\Desktop\Projets\MTG\MTG\GraphClient\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\theob\Desktop\Projets\MTG\MTG\GraphClient\bin\Debug\ConsoleApplication1.exe
+C:\Users\theob\Desktop\Projets\MTG\MTG\GraphClient\bin\Debug\ConsoleApplication1.pdb
+C:\Users\theob\Desktop\Projets\MTG\MTG\GraphClient\bin\Debug\Algorithms.dll
+C:\Users\theob\Desktop\Projets\MTG\MTG\GraphClient\bin\Debug\Graph.dll
+C:\Users\theob\Desktop\Projets\MTG\MTG\GraphClient\bin\Debug\Algorithms.pdb
+C:\Users\theob\Desktop\Projets\MTG\MTG\GraphClient\obj\Debug\GraphClient.csprojResolveAssemblyReference.cache
+C:\Users\theob\Desktop\Projets\MTG\MTG\GraphClient\obj\Debug\ConsoleApplication1.exe
+C:\Users\theob\Desktop\Projets\MTG\MTG\GraphClient\obj\Debug\ConsoleApplication1.pdb
