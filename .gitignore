@@ -4,3 +4,4 @@
 !*.cs
 !*.xml
 !.gitignore
+!README.md
