@@ -1,0 +1,6 @@
+C:\Users\theob\Desktop\Projets\MTG\MTG\Algorithms\bin\Debug\Algorithms.dll
+C:\Users\theob\Desktop\Projets\MTG\MTG\Algorithms\bin\Debug\Algorithms.pdb
+C:\Users\theob\Desktop\Projets\MTG\MTG\Algorithms\bin\Debug\Graph.dll
+C:\Users\theob\Desktop\Projets\MTG\MTG\Algorithms\obj\Debug\GraphAlgorithms.csprojResolveAssemblyReference.cache
+C:\Users\theob\Desktop\Projets\MTG\MTG\Algorithms\obj\Debug\Algorithms.dll
+C:\Users\theob\Desktop\Projets\MTG\MTG\Algorithms\obj\Debug\Algorithms.pdb
