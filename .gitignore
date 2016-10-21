@@ -1,0 +1,7 @@
+### Ignore ALL execpt .cs ###
+*
+!*/
+!*.cs
+!*.xml
+!.gitignore
+!README.md
